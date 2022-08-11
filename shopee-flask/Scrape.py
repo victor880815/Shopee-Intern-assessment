@@ -40,8 +40,8 @@ print("inputing username and password...")
 
 
 
-username_input.send_keys("victor880815@yahoo.com.tw")
-password_input.send_keys("victor0815")
+username_input.send_keys("XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX")
+password_input.send_keys("XXXXXXXXXXXXXXXXXXX")
 
 
 
