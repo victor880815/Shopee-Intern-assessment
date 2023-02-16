@@ -9,8 +9,8 @@
 
 API建立完成後利用heroku部屬，獲得網址如下：  
 例如：https://shopee-flask-heroku.herokuapp.com/shopee?q=檸檬&n=10&w=50  
-就會回傳標題或是內文有含"檸檬"的文章中，選最多10篇文章，每一篇文章回傳最初的50個字
-目前heroku已關閉服務
+就會回傳標題或是內文有含"檸檬"的文章中，選最多10篇文章，每一篇文章回傳最初的50個字  
+#目前heroku已關閉服務
 
 
 <h3>⭐Django串接API製作使用者介面(請使用Linux作業系統)</h3>
